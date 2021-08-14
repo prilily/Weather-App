@@ -11,10 +11,10 @@ core basics of the DOM,how to use fetch API, to call and get data from a third-p
 - Display Sunrise,Sunset data for a given location.
 - Display data in metric or imperial units.
 
-![weatherapp](images/screenshots/image (2).png)
-![weatherapp](images/screenshots/image (4).png)
-![weatherapp](images/screenshots/image (5).png)
-![weatherapp](images/screenshots/image (1).png)
+![weatherapp](images/screenshots/s12.png)
+![weatherapp](images/screenshots/s14.png)
+![weatherapp](images/screenshots/s15.png)
+![weatherapp](images/screenshots/s11.png)
 
 
 Feature ideas to implement.
